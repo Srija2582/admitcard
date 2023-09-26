@@ -21,7 +21,7 @@ function App() {
   const handleOTPVerify = (enteredOTP) => {
     const isOTPVerified = enteredOTP === verifiedOTP;
     if (isOTPVerified) {
-      setPage(3);   // Success page
+      setPage(3);     // Success page
     } else {
       alert("OTP verification failed. Please try again.");
     }
