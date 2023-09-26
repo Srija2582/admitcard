@@ -1,0 +1,22 @@
+.button-style {
+    background-color: rgba(247, 179, 72, 1);
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+  }
+  .para {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+  }
+  .para-heading {
+    font-weight: 400;
+  }
+  .para-des {
+    color: rgba(102, 102, 102, 1);
+  }
+  .description {
+    font-size: 12px;
+    margin-bottom: 40px;
+  }
+  
